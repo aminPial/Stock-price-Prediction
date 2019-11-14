@@ -9,8 +9,9 @@ Below is a sample training data:
 ## Result
 
 The model predicts the next day stock price at an accuracy of 98.7%.
-Thr graph has been shown below.[Linearaxon was our AI StartUp venture]
+Thr graph has been shown below.
 ![result](linearaxon_sp_ai_demo.png)
+Linearaxon was our AI StartUp venture. And this was a B2B project back then.
 
 ## License
 
